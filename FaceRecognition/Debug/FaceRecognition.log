@@ -1,0 +1,17 @@
+﻿生成启动时间为 2018/10/12 10:57:13。
+     1>项目“C:\Users\Administrator\Desktop\新建文件夹\FaceRecognition\FaceRecognition\FaceRecognition.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\新建文件夹2\visual studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>c:\users\administrator\desktop\opencv\opencv 3.0.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\administrator\desktop\opencv\opencv 3.0.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\administrator\desktop\opencv\opencv 3.0.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\administrator\desktop\新建文件夹\facerecognition\facerecognition\main.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\新建文件夹2\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\新建文件夹\FaceRecognition\Debug\FaceRecognition.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\新建文件夹\FaceRecognition\Debug\FaceRecognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\新建文件夹\FaceRecognition\Debug\FaceRecognition.lib" /MACHINE:X86 Debug\Main.obj
+         FaceRecognition.vcxproj -> C:\Users\Administrator\Desktop\新建文件夹\FaceRecognition\Debug\FaceRecognition.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\新建文件夹\FaceRecognition\FaceRecognition\FaceRecognition.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.82
